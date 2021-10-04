@@ -1,0 +1,13 @@
+Mission n°1
+
+Objet : anomalie tracé temps réel
+
+Bonjour Pierre,
+
+En parcourant ce matin les tracés générés par mes scripts, j'ai découvert une anomalie sur le suivi du nombre de visiteurs en temps réel 
+(autour de 3h on observe une brutale chute de l’indicateur ‘nombre de visiteurs’, sortie renvoyée "zéro"). 
+Je suspecte un rapport avec la mise en production de la nouvelle version du site effectuée par Cécile et son équipe hier. 
+C'est pourquoi je l'ai contactée afin d'y voir plus clair.
+Je te tiens informé sur la résolution de ce problème.
+
+Aïssa
